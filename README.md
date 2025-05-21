@@ -7,7 +7,7 @@ For more information, please visit this thread on the ArcadeControls forums.
 
 [https://forum.arcadecontrols.com/index.php/topic,154126.0.html](https://forum.arcadecontrols.com/index.php/topic,154126.0.html)
 
-This repository is an archival copy of the last Windows release package.
+This repository contains a copy of the last Windows release package (v1.3.5) split into three parts using 7-Zip.
 
 ## License Info
 
